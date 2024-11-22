@@ -1,7 +1,0 @@
-{
-    "require": {
-        "symfony/orm-pack": "^2.4",
-        "symfony/security-bundle": "^7.1",
-        "api-platform/api-pack": "^1.4"
-    }
-}
